@@ -7,11 +7,11 @@
 Here are some ideas to get you started:
 <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/5e20be75-64ae-4c0a-83c8-b4ec5de45cec" />
 
--- 
+--- 
 
 **shaliniverma2025/shaliniverma2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---
+---
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
